@@ -1,2 +1,2 @@
 # trial-collab
-latihan kolaborasi
+latihan kolaborasi dengan anggota tim 
